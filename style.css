@@ -3,6 +3,7 @@
     background-color: black; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
+
 }
 .mySection {
     margin-bottom: 25px;
@@ -12,4 +13,29 @@
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;
+}
+.myFooter {
+    font-style: italic;
+    background-color: goldenrod;
+    text-align: center;
+    color: black;
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10%;        
+}
+.myFooter2 {
+    font-style: italic;
+    background-color: goldenrod;
+    text-align: center;
+    color: black;
+         
+}
+
+@media (min-aspect-ratio: 400px) { .myBody
+
+}
+
+@media (max-aspect-ratio: 900px) { .myBody
+
 }
